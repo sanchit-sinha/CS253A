@@ -1,0 +1,12 @@
+[submodule "Assignments/cpp_programming_assignment"]
+	path = Assignments/cpp_programming_assignment
+	url = git@github.com:sanchit-sinha/library-management-system.git
+[submodule "Assignments/shell_scripting_assignment"]
+	path = Assignments/shell_scripting_assignment
+	url = git@github.com:sanchit-sinha/shell-scripting.git
+[submodule "Assignments/python_assignment"]
+	path = Assignments/python_assignment
+	url = git@github.com:sanchit-sinha/spam-email-classification.git
+[submodule "python/python_lectures"]
+	path = python/python_lectures
+	url = git@github.com:ciniks117/CS253_TA.git
